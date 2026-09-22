@@ -1,0 +1,9 @@
+.app-shell { min-height: 100vh; background: #f7f9fc; }
+.brand-mark { width: 30px; height: 30px; object-fit: cover; object-position: left; border-radius: 8px; }
+.nav-link { color: #5c677d; }
+.nav-link.active { color: #5038a5 !important; }
+.hero-panel { min-height: 460px; display: flex; flex-direction: column; justify-content: center; border-radius: 28px; background: linear-gradient(120deg, #e6e0ff 0%, #f8e8dc 100%); }
+.hero-panel h1 span { color: #5038a5; }
+.eyebrow { color: #6c54d9; font-size: .75rem; font-weight: 700; letter-spacing: .12em; text-transform: uppercase; }
+.avatar { width: 52px; height: 52px; border-radius: 50%; object-fit: cover; }
+.rank { display: inline-grid; place-items: center; width: 30px; height: 30px; border-radius: 50%; background: #ece9ff; color: #5038a5; font-weight: 700; }
